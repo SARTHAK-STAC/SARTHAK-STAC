@@ -63,11 +63,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-STAC&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-STAC&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-STAC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-STAC&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,9 +92,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SARTHAK-STAC&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SARTHAK-STAC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
