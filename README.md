@@ -144,9 +144,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
-![snake gif](https://github.com/SARTHAK-STAC/SARTHAK-STAC/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/SARTHAK-STAC/SARTHAK-STAC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
