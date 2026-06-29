@@ -1,18 +1,23 @@
-# Hi there 👋, I'm Sarthak Singh Chauhan
+# <h1 align="center">Hi 👋, I'm Sarthak Singh Chauhan</h1>
 
 <h3 align="center">🚀 Aspiring Software Development Engineer | Full Stack Developer | DSA Enthusiast</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Amazon+SDE;Full+Stack+Developer;Competitive+Programmer;DSA+Enthusiast;Open+Source+Learner;Always+Learning+Something+New..." />
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science (AI & ML)
-* 💻 Passionate about Software Development and Problem Solving
-* 🌱 Currently learning **Data Structures & Algorithms, Backend Development, System Design, and Full Stack Development**
-* 🎯 Preparing for **Amazon SDE** by solving LeetCode consistently
-* 🚀 Building Full Stack and AI-powered projects
-* 📚 Exploring Open Source Contributions
-* ⚡ I love building scalable applications and learning new technologies.
+* 🎓 B.Tech CSE (AI & ML)
+* 💻 Passionate about Software Development
+* 🌱 Currently learning **DSA, Backend, System Design & Full Stack Development**
+* 🎯 Goal: **Amazon Software Development Engineer**
+* 🚀 Building scalable Full Stack applications
+* 📚 Solving LeetCode daily
+* 🤝 Exploring Open Source
+* ⚡ Love building real-world products
 
 ---
 
@@ -20,7 +25,7 @@
 
 * 🔥 Data Structures & Algorithms
 * 🌐 Full Stack Development
-* ⚙️ Backend Development
+* ⚙️ Backend Engineering
 * ☁️ System Design
 * 🤖 Artificial Intelligence
 * 📖 Open Source Contributions
@@ -29,31 +34,25 @@
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,sql" />
 </p>
 
----
-
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
----
-
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
@@ -61,8 +60,15 @@
 
 ---
 
-<img width="1082" height="328" alt="image" src="https://github.com/user-attachments/assets/2f8d6730-6bde-4203-970f-cd6e3ae50edd" />
+# 📈 GitHub Stats
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-STAC&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-STAC&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -70,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SARTHAK-STAC&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=SARTHAK-STAC&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,11 +92,22 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SARTHAK-STAC&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
 # 🏆 LeetCode Journey
 
 * ✅ 33+ Problems Solved
 * 🎯 Goal: 300+ Problems
-* 🚀 Preparing for Software Engineering Interviews
+* 💻 Daily DSA Practice
+* 🚀 Preparing for Amazon SDE Interviews
 
 ---
 
@@ -109,15 +126,15 @@
 <p align="left">
 
 <a href="https://github.com/SARTHAK-STAC">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarthakchauhandev/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:sarthakchauhan.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -128,14 +145,18 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SARTHAK-STAC&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=SARTHAK-STAC&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SARTHAK-STAC/SARTHAK-STAC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/SARTHAK-STAC/SARTHAK-STAC/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 </p>
 
 ---
