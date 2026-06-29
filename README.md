@@ -134,8 +134,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/SARTHAK-STAC/SARTHAK-STAC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
