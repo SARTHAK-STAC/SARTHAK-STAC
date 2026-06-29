@@ -61,15 +61,8 @@
 
 ---
 
-# 📈 GitHub Stats
+<img width="1082" height="328" alt="image" src="https://github.com/user-attachments/assets/2f8d6730-6bde-4203-970f-cd6e3ae50edd" />
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SARTHAK-STAC&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK-STAC&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
