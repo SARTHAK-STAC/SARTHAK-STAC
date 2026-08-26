@@ -60,16 +60,7 @@
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SARTHAK-STAC&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SARTHAK-STAC&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
----
 
 # 🔥 GitHub Streak
 
