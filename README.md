@@ -85,8 +85,7 @@
 
 # 🏆 LeetCode Journey
 
-* ✅ 33+ Problems Solved
-* 🎯 Goal: 300+ Problems
+* ✅ 65+ Problems Solved
 * 💻 Daily DSA Practice
 * 🚀 Preparing for Amazon SDE Interviews
 
