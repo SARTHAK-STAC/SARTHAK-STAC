@@ -1,148 +1,65 @@
-# <h1 align="center">Hi 👋, I'm Sarthak Singh Chauhan</h1>
-
-<h3 align="center">🚀 Aspiring Software Development Engineer | Full Stack Developer | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Sarthak 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Amazon+SDE;Full+Stack+Developer;Competitive+Programmer;DSA+Enthusiast;Open+Source+Learner;Always+Learning+Something+New..." />
+  <b>B.Tech CSE (AI & ML) · Full Stack Developer · DSA Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SARTHAK-STAC">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sarthakchauhandev/">LinkedIn</a> ·
+  <a href="mailto:sarthakchauhan.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### About
 
 * 🎓 B.Tech CSE (AI & ML)
-* 💻 Passionate about Software Development
-* 🌱 Currently learning **DSA, Backend, System Design & Full Stack Development**
-* 🎯 Goal: **Amazon Software Development Engineer**
-* 🚀 Building scalable Full Stack applications
-* 📚 Solving LeetCode daily
-* 🤝 Exploring Open Source
-* ⚡ Love building real-world products
+* 💻 Building full-stack and AI-powered applications
+* 🧠 Practicing DSA and problem solving
+* 🌱 Currently focused on backend, system design & scalable applications
+* 🎯 Working towards Software Engineering roles
+
+### Tech
+
+**Languages**
+
+`C++` `Python` `Java` `JavaScript` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS` `Vite`
+
+**Backend**
+
+`Node.js` `Express` `MongoDB` `MySQL`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Postman`
+
+### Projects
+
+* **AI Interview Coach** — AI-powered interview preparation platform
+* **CareerCopilot** — AI-assisted career development platform
+* **SmartWardrobe** — Smart outfit and wardrobe management
+* **UIDAI Analytics** — Data analysis and visualization of Aadhaar datasets
+
+### Coding
+
+* **65+ LeetCode problems solved**
+* Daily DSA practice
+* Focus areas: Arrays, Linked Lists, Sliding Window, Trees & Graphs
 
 ---
-
-# 🧠 Current Focus
-
-* 🔥 Data Structures & Algorithms
-* 🌐 Full Stack Development
-* ⚙️ Backend Engineering
-* ☁️ System Design
-* 🤖 Artificial Intelligence
-* 📖 Open Source Contributions
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
-</p>
-
----
-
-
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SARTHAK-STAC&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAK-STAC&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARTHAK-STAC&hide_border=true&theme=transparent" height="160"/>
 </p>
 
 ---
-
-# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAK-STAC&theme=tokyo-night"/>
-
+  <i>Building. Learning. Improving.</i>
 </p>
-
-
----
-
-# 🏆 LeetCode Journey
-
-* ✅ 65+ Problems Solved
-* 💻 Daily DSA Practice
-* 🚀 Preparing for Amazon SDE Interviews
-
----
-
-# 🚀 Featured Projects
-
-* 🎤 AI Interview Coach
-* 💼 CareerCopilot
-* 👕 SmartWardrobe
-* 📊 UIDAI Data Analytics Dashboard
-* 🤖 AI Automation Projects
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/SARTHAK-STAC">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sarthakchauhandev/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sarthakchauhan.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SARTHAK-STAC&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SARTHAK-STAC/SARTHAK-STAC/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-💡 **"Consistency beats intensity. One problem solved every day is better than 100 solved once."**
-
-</h3>
